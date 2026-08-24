@@ -7,9 +7,8 @@ gmail_password = os.environ["GMAIL_PASSWORD"]
 
 destinatario = "ana.storion@ache.com.br"
 
-mensagem = MIMEText(
-    "Este é um teste de envio de e-mail pelo GitHub Actions."
-)
+with open("resultado.txt", "r", encoding="utf-8") as f:
+    conteudo = f.read()
 
 mensagem["Subject"] = "Teste CADIFA"
 mensagem["From"] = gmail_user
