@@ -6,7 +6,7 @@ gmail_user = os.environ["GMAIL_USER"]
 gmail_password = os.environ["GMAIL_PASSWORD"]
 
 destinatarios = [
-    "ana.storion@ache.com.br".
+    "ana.storion@ache.com.br",
     "lais.horta@ache.com.br"
 ]
 
