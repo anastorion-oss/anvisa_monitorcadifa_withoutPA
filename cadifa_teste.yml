@@ -1,0 +1,36 @@
+name: CADIFA Monitor
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  executar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests pandas openpyxl
+
+      - name: Executar script
+        run: |
+          python baixar_cadifa.py
+
+      - name: Salvar atualizacao
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Atualiza CADIFA" || exit 0
+          git push
+          git push || sleep 10 && git push
+          ``
