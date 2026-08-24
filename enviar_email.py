@@ -10,7 +10,9 @@ destinatario = "ana.storion@ache.com.br"
 with open("resultado.txt", "r", encoding="utf-8") as f:
     conteudo = f.read()
 
-mensagem["Subject"] = "Teste CADIFA"
+mensagem = MIMEText(conteudo)
+
+mensagem["Subject"] = "MONITOR CADIFA"
 mensagem["From"] = gmail_user
 mensagem["To"] = destinatario
 
