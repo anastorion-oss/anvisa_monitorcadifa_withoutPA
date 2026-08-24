@@ -1,4 +1,4 @@
-name: CADIFA Monitor
+name: CADIFA Monitor Schedule Test
 
 on:
   workflow_dispatch:
