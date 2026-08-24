@@ -32,5 +32,4 @@ jobs:
           git add .
           git commit -m "Atualiza CADIFA" || exit 0
           git push
-          git push || sleep 10 && git push
           ``
