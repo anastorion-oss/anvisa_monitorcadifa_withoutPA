@@ -1,5 +1,21 @@
 Resumo CADIFA
-Executado em: 25/08/2026 11:15:20
 
-Novas: 0
+Executado em: 26/08/2026 09:00:20
+
+Novas: 13
 Removidas: 0
+
+=== NOVAS ===
+Bec Chemicals Private Limited | cetoprofeno | 25351184842202351
+Ami Lifesciences Private Limited | tadalafila | 25351299954202496
+Kissei Pharmaceutical Co., Ltd. | linzagolixato de colina | 25351399700202477
+Ipca Laboratories Ltd. | hidroclorotiazida | 25351227277202595
+Honour Lab Limited | brexpiprazol | 25351075968202505
+Heraeus Deutschland Gmbh & Co. Kg | cloridrato do ácido aminolevulínico | 25351145024202502
+Alivus Life Sciences Limited | dicloridrato de levocetirizina | 25351372678202256
+Dr Reddys Farmacêutica Do Brasil Ltda | valsartana | 25351508081202337
+Changzhou Pharmaceutical Factory | lenalidomida | 25351567349202372
+Ranke Química S.A. | ebastina | 25351570277202260
+Dr Reddys Farmacêutica Do Brasil Ltda | gatifloxacino | 25351755793202343
+Honour Lab Limited | ticagrelor | 25351156927202519
+Zydus Lifesciences Limited | bromidrato de vortioxetina | 25351141871202590
