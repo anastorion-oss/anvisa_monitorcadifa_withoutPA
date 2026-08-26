@@ -13,6 +13,8 @@ destinatarios = [
 with open("resultado.txt", "r", encoding="utf-8") as f:
     conteudo = f.read()
 
+conteudo = "###CADIFA###\n\n" + conteudo
+
 mensagem = MIMEText(conteudo)
 
 mensagem["Subject"] = "MONITOR CADIFA"
