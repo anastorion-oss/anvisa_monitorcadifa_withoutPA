@@ -233,41 +233,45 @@ def main():
 
       # Identifica mudanças de revisão
 
-        comparacao = (
-            df_antigo[
-                [
-                    "Nº CADIFA",
-                    "Razão Social",
-                    "Insumo (IFA)",
+        revisadas = []
+
+        cadifas_comuns = set(df_antigo["Nº CADIFA"]).intersection(
+            set(df_novo["Nº CADIFA"])
+        )
+
+        for cadifa in cadifas_comuns:
+
+            revisoes_antigas = set(
+                df_antigo.loc[
+                    df_antigo["Nº CADIFA"] == cadifa,
                     "Revisão"
-                ]
-            ]
-            .merge(
-                df_novo[
-                    [
-                        "Nº CADIFA",
-                        "Razão Social",
-                        "Insumo (IFA)",
-                        "Revisão"
-                    ]
-                ],
-                on=[
-                    "Nº CADIFA",
-                    "Razão Social",
-                    "Insumo (IFA)"
-                ],
-                suffixes=("_antiga", "_nova")
+                ].astype(str)
             )
-        )
 
-        revisadas = comparacao[
-            comparacao["Revisão_antiga"] != comparacao["Revisão_nova"]
-        ]
+            revisoes_novas = set(
+                df_novo.loc[
+                    df_novo["Nº CADIFA"] == cadifa,
+                    "Revisão"
+                ].astype(str)
+            )
 
-        revisadas.to_excel(
-            "revisadas_debug.xlsx",
-            index=False
-        )
+            if revisoes_antigas != revisoes_novas:
+
+                info = df_novo[
+                    df_novo["Nº CADIFA"] == cadifa
+                ].iloc[0]
+
+                revisadas.append({
+                    "Nº CADIFA": cadifa,
+                    "Razão Social": info["Razão Social"],
+                    "Insumo (IFA)": info["Insumo (IFA)"],
+                    "Revisões_antigas": "; ".join(sorted(revisoes_antigas)),
+                    "Revisões_novas": "; ".join(sorted(revisoes_novas)),
+                })
+
+        revisadas = pd.DataFrame(revisadas)
+
+    
 
         print(f"Novas: {len(novas)}")
         print(f"Removidas: {len(removidas)}")
@@ -337,8 +341,8 @@ def main():
                             f"{linha['Razão Social']} | "
                             f"{linha['Insumo (IFA)']} | "
                             f"{linha['Nº CADIFA']} | "
-                            f"{linha['Revisão_antiga']} -> "
-                            f"{linha['Revisão_nova']}\n"
+                            f"Anterior: {linha['Revisões_antigas']}\n"
+                            f"Atual: {linha['Revisões_novas']}\n\n"
                         )
 
 
