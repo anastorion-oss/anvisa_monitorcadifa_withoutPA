@@ -257,6 +257,12 @@ def main():
 
             if revisoes_antigas != revisoes_novas:
 
+                print(
+                    f"CADIFA {cadifa} | "
+                    f"ANTIGO={revisoes_antigas} | "
+                    f"NOVO={revisoes_novas}"
+                )
+
                 info = df_novo[
                     df_novo["Nº CADIFA"] == cadifa
                 ].iloc[0]
