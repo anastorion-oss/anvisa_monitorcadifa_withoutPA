@@ -1,5 +1,6 @@
 Resumo CADIFA
-Executado em: 31/08/2026 13:32:30
+Executado em: 31/08/2026 13:42:06
 
 Novas: 0
+Revisadas: 12
 Removidas: 0
