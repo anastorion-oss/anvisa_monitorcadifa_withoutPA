@@ -233,22 +233,22 @@ def main():
 
       # Identifica mudanças de revisão
 
-         comparacao = (
-             df_antigo[["Nº CADIFA", "Revisão"]]
-             .merge(
-                 df_novo[["Nº CADIFA", "Revisão"]],
-                 on="Nº CADIFA",
-                 suffixes=("_antiga", "_nova")
-             )
-         )
+        comparacao = (
+            df_antigo[["Nº CADIFA", "Revisão"]]
+            .merge(
+                df_novo[["Nº CADIFA", "Revisão"]],
+                on="Nº CADIFA",
+                suffixes=("_antiga", "_nova")
+            )
+        )
 
-          revisadas = comparacao[
-              comparacao["Revisão_antiga"] != comparacao["Revisão_nova"]
-          ]
+        revisadas = comparacao[
+            comparacao["Revisão_antiga"] != comparacao["Revisão_nova"]
+        ]
 
-          print(f"Novas: {len(novas)}")
-          print(f"Removidas: {len(removidas)}")
-          print(f"Revisadas: {len(revisadas)}")
+        print(f"Novas: {len(novas)}")
+        print(f"Removidas: {len(removidas)}")
+        print(f"Revisadas: {len(revisadas)}")
 
         if len(novas) > 0:
 
