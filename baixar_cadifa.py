@@ -309,6 +309,7 @@ def main():
                     f"Resumo CADIFA\n"
                     f"Executado em: {datetime.now(ZoneInfo('America/Sao_Paulo')).strftime('%d/%m/%Y %H:%M:%S')}\n\n"
                     f"Novas: 0\n"
+                    f"Revisadas: {len(revisadas)}\n"
                     f"Removidas: {len(removidas)}\n"
                 )
 
