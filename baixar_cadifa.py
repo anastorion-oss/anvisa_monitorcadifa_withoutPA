@@ -234,9 +234,23 @@ def main():
       # Identifica mudanças de revisão
 
         comparacao = (
-            df_antigo[["Nº CADIFA", "Revisão"]]
+            df_antigo[
+                [
+                    "Nº CADIFA",
+                    "Razão Social",
+                    "Insumo (IFA)",
+                    "Revisão"
+                ]
+            ]
             .merge(
-                df_novo[["Nº CADIFA", "Revisão"]],
+                df_novo[
+                    [
+                        "Nº CADIFA",
+                        "Razão Social",
+                        "Insumo (IFA)",
+                        "Revisão"
+                    ]
+                ],
                 on="Nº CADIFA",
                 suffixes=("_antiga", "_nova")
             )
@@ -250,7 +264,12 @@ def main():
         print(f"Removidas: {len(removidas)}")
         print(f"Revisadas: {len(revisadas)}")
 
-        if len(novas) > 0:
+
+        if (
+            len(novas) > 0
+            or len(revisadas) > 0
+            or len(removidas) > 0
+        ):
 
             novas.to_excel("novas_cadifas.xlsx", index=False)
 
@@ -299,8 +318,26 @@ def main():
                             f"{linha['Nº CADIFA']}\n"
                         )
 
+                if len(revisadas) > 0:
 
-            print(f"{len(novas)} novas CADIFAs encontradas!")
+                    f.write("\n=== REVISADAS ===\n")
+
+                    for _, linha in revisadas.iterrows():
+
+                        f.write(
+                            f"{linha['Razão Social_nova']} | "
+                            f"{linha['Insumo (IFA)_nova']} | "
+                            f"{linha['Nº CADIFA']} | "
+                            f"{linha['Revisão_antiga']} -> "
+                            f"{linha['Revisão_nova']}\n"
+                        )
+
+
+            print(
+                f"Novas: {len(novas)} | "
+                f"Revisadas: {len(revisadas)} | "
+                f"Removidas: {len(removidas)}"
+            )
 
         else:
 
@@ -313,7 +350,7 @@ def main():
                     f"Removidas: {len(removidas)}\n"
                 )
 
-            print("Nenhuma nova CADIFA encontrada.")
+            print("Nenhuma alteração encontrada.")
 
     except Exception as e:
 
