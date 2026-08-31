@@ -251,7 +251,11 @@ def main():
                         "Revisão"
                     ]
                 ],
-                on="Nº CADIFA",
+                on=[
+                    "Nº CADIFA",
+                    "Razão Social",
+                    "Insumo (IFA)"
+                ],
                 suffixes=("_antiga", "_nova")
             )
         )
