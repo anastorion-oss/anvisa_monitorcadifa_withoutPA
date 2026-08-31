@@ -1,5 +1,60 @@
 Resumo CADIFA
-Executado em: 28/08/2026 09:00:20
 
-Novas: 0
-Removidas: 52
+Executado em: 31/08/2026 09:00:20
+
+Novas: 52
+Removidas: 0
+
+=== NOVAS ===
+Zydus Lifesciences Limited | bromidrato de vortioxetina | 25351141871202590
+Dr Reddys Farmacêutica Do Brasil Ltda | levofloxacino hemi-hidratado | 25351957809202431
+Janssen-Cilag Farmaceutica Ltda | cloridrato de icotroquinra | 25351152307202501
+Orphandc G Importacao E Distribuicao De Produtos Farmaceuticos Ltda | pegcetacoplana | 25351058556202501
+Dr Reddys Farmacêutica Do Brasil Ltda | atorvastatina cálcica tri-hidratada | 25351420035202498
+Laurus Labs Limited | azacitidina | 25351293719202249
+Hetero Labs Limited | atorvastatina cálcica tri-hidratada | 25351083726202315
+Anqiu Lu'An Pharmaceutical Co., Ltd. | paracetamol | 25351382999202340
+Micro Labs Limited | cloridrato de lurasidona | 25351155278202440
+Msn Laboratories Private Limited | ciclofosfamida monoidratada | 25351705835202303
+Flamma S.P.A. | melatonina | 25351449267202347
+Zaklady Farmaceutyczne Polpharma S.A. | empagliflozina | 25351127180202311
+Divi'S Laboratories Limited | carbidopa monoidratada | 25351070479202559
+Sun Pharmaceutical Industries Limited | acetato de abiraterona | 25351364927202311
+Aurisco Pharmaceutical Co.,Ltd. | acetato de abiraterona | 25351513882202152
+Granules India Limited | cloridrato de metformina | 25351586381202276
+Intas Pharmaceuticals Limited | paclitaxel | 25351348787202252
+Astellas Farma Brasil Importação E Distribuição De Medicamentos Ltda. | avacincaptade pegol sódico | 25351046702202547
+Lee Pharma Limited | bilastina | 25351035922202383
+Hetero Labs Limited | oxalato de escitalopram | 25351501193202367
+Alembic Pharmaceuticals Limited | macitentana | 25351000069202541
+Msn Laboratories Private Limited | cloridrato de olopatadina | 25351456102202241
+Zhejiang Xianju Pharmaceutical Co., Ltd. | prednisolona | 25351399589202257
+Lupin Manufacturing Solutions Limited | empagliflozina | 25351208397202411
+Rolabo Outsourcing, S.L. | cloridrato de palonosetrona | 25351860688202325
+Dr Reddys Farmacêutica Do Brasil Ltda | fumarato de dimetila | 25351855399202312
+Noramco, Llc | cloridrato de oxicodona | 25351417941202243
+Hetero Labs Limited | levetiracetam | 25351229934202377
+Zhejiang Guobang Pharmaceutical Co., Ltd | ciprofloxacino | 25351097818202200
+Zhejiang Guobang Pharmaceutical Co., Ltd | claritromicina | 25351082643202228
+Msn Life Sciences Private Limited | bilastina | 25351010782202331
+Zhejiang Supor Pharmaceuticals Co., Ltd | hemifumarato de quetiapina | 25351127200202273
+Newchem S.P.A. | dienogeste | 25351497379202312
+Chirogate International Inc. | bimatoprosta | 25351403161202216
+Msn Organics Private Limited | cloridrato de cinacalcete | 25351153141202299
+Cohance Lifesciences Limited | hemifumarato de quetiapina | 25351285445202214
+Euroapi Hungary Ltd. | latanoprosta | 25351147798202306
+Aspen Oss B.V. | budesonida | 25351036030202219
+Nortec Química S.A | micofenolato de sódio | 25351448083202289
+Zhuhai United Laboratories Co., Ltd. | ampicilina sódica | 25351433410202117
+Chemwerth, Inc. | milrinona | 25351869642202118
+Intas Pharmaceuticals Limited | carfilzomibe | 25351255810202185
+Centrient Pharmaceuticals Spain, S.A. | cefalexina monoidratada | 25351196266202122
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | drospirenona | 25351273206202211
+Shandong Anshun Pharmaceutical Co., Ltd. | tazobactam | 25351088152202291
+Shandong Anshun Pharmaceutical Co., Ltd. | piperacilina monoidratada | 25351088151202246
+Fersinsa Gb S.A. De C.V. | benzilpenicilina potássica | 25351881526202169
+Alembic Pharmaceuticals Limited | succinato de desvenlafaxina monoidratado | 25351114763202111
+Synthimed Labs Private Limited | claritromicina | 25351517246202281
+Shilpa Pharma Lifesciences Limited | cloridrato de bendamustina monoidratada | 25351748374202193
+Fersinsa Gb S.A. De C.V. | amoxicilina tri-hidratada | 25351533263202001
+Viyash Scientific Limited | cloridrato  de ondansetrona di-hidratado | 25351163773202180
