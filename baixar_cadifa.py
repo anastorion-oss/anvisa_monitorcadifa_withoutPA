@@ -264,6 +264,11 @@ def main():
             comparacao["Revisão_antiga"] != comparacao["Revisão_nova"]
         ]
 
+        revisadas.to_excel(
+            "revisadas_debug.xlsx",
+            index=False
+        )
+
         print(f"Novas: {len(novas)}")
         print(f"Removidas: {len(removidas)}")
         print(f"Revisadas: {len(revisadas)}")
