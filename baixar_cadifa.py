@@ -189,32 +189,61 @@ def main():
         # Salva a versão anterior
         df_antigo.to_excel(arquivo_anterior, index=False)
 
-        # Identifica CADIFAs novas
-        novas = df_novo[
-            ~df_novo["Nº CADIFA"].astype(str).isin(
-                df_antigo["Nº CADIFA"].astype(str)
-            )
-        ]
+      # Padroniza as colunas
 
-        removidas = df_antigo[
-            ~df_antigo["Nº CADIFA"].astype(str).isin(
-                df_novo["Nº CADIFA"].astype(str)
-            )
-        ]
+      df_antigo["Nº CADIFA"] = (
+          df_antigo["Nº CADIFA"]
+          .astype(str)
+          .str.strip()
+      )
 
-        comparacao = (
-            df_antigo[["Nº CADIFA", "Revisão"]]
-            .merge(
-                df_novo[["Nº CADIFA", "Revisão"]],
-                on="Nº CADIFA",
-                suffixes=("_antiga", "_nova")
-            )
-        )
+      df_novo["Nº CADIFA"] = (
+          df_novo["Nº CADIFA"]
+          .astype(str)
+          .str.strip()
+      )
+
+      df_antigo["Revisão"] = (
+          df_antigo["Revisão"]
+          .astype(str)
+          .str.strip()
+      )
+
+      df_novo["Revisão"] = (
+          df_novo["Revisão"]
+          .astype(str)
+          .str.strip()
+      )
+
+    # Identifica CADIFAs novas
+
+      novas = df_novo[
+          ~df_novo["Nº CADIFA"].isin(
+              df_antigo["Nº CADIFA"]
+          )
+      ]
+
+    # Identifica CADIFAs removidas
+
+      removidas = df_antigo[
+          ~df_antigo["Nº CADIFA"].isin(
+              df_novo["Nº CADIFA"]
+          )
+      ]
+
+    # Identifica mudanças de revisão
+
+       comparacao = (
+           df_antigo[["Nº CADIFA", "Revisão"]]
+           .merge(
+               df_novo[["Nº CADIFA", "Revisão"]],
+               on="Nº CADIFA",
+               suffixes=("_antiga", "_nova")
+           )
+       )
 
         revisadas = comparacao[
-            comparacao["Revisão_antiga"]
-            !=
-            comparacao["Revisão_nova"]
+            comparacao["Revisão_antiga"] != comparacao["Revisão_nova"]
         ]
 
         print(f"Novas: {len(novas)}")
