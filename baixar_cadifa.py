@@ -329,8 +329,8 @@ def main():
                     for _, linha in revisadas.iterrows():
 
                         f.write(
-                            f"{linha['Razão Social_nova']} | "
-                            f"{linha['Insumo (IFA)_nova']} | "
+                            f"{linha['Razão Social']} | "
+                            f"{linha['Insumo (IFA)']} | "
                             f"{linha['Nº CADIFA']} | "
                             f"{linha['Revisão_antiga']} -> "
                             f"{linha['Revisão_nova']}\n"
