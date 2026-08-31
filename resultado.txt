@@ -1,1 +1,22 @@
-Erro: 'Razão Social_nova'
+Resumo CADIFA
+
+Executado em: 31/08/2026 14:27:13
+
+Novas: 0
+Revisadas: 12
+Removidas: 0
+
+
+=== REVISADAS ===
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 MICRONIZADO CCS1 -> 003 MICRONIZADO CCS2
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 MICRONIZADO CCS1 -> 003 NÃO MICRONIZADO CCS1
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 MICRONIZADO CCS1 -> 003 NÃO MICRONIZADO CCS2
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 MICRONIZADO CCS2 -> 003 MICRONIZADO CCS1
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 MICRONIZADO CCS2 -> 003 NÃO MICRONIZADO CCS1
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 MICRONIZADO CCS2 -> 003 NÃO MICRONIZADO CCS2
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 NÃO MICRONIZADO CCS1 -> 003 MICRONIZADO CCS1
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 NÃO MICRONIZADO CCS1 -> 003 MICRONIZADO CCS2
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 NÃO MICRONIZADO CCS1 -> 003 NÃO MICRONIZADO CCS2
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 NÃO MICRONIZADO CCS2 -> 003 MICRONIZADO CCS1
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 NÃO MICRONIZADO CCS2 -> 003 MICRONIZADO CCS2
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214 | 003 NÃO MICRONIZADO CCS2 -> 003 NÃO MICRONIZADO CCS1
