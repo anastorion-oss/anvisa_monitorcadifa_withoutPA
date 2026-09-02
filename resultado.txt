@@ -1,46 +1,10 @@
 Resumo CADIFA
 
-Executado em: 01/09/2026 09:00:23
+Executado em: 02/09/2026 09:00:28
 
-Novas: 0
-Revisadas: 12
+Novas: 1
+Revisadas: 0
 Removidas: 0
 
-
-=== REVISADAS ===
-Msn Laboratories Private Limited | pitavastatina cálcica pentaidratada | 25351527145202218 | Anterior: 001
-Atual: 002
-
-Piramal Pharma Limited | cloridrato de trazodona | 25351277460202299 | Anterior: 002
-Atual: 003
-
-Ami Lifesciences Private Limited | fumarato de vonoprazana | 25351807440202336 | Anterior: 001
-Atual: 002
-
-Hubei Biocause Heilen Pharmaceutical Co., Ltd | ibuprofeno | 25351305688202286 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | rosuvastatina cálcica | 25351322289202018 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | gefitinibe | 25351199392202139 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | dapagliflozina | 25351090758202296 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | esilato de nintedanibe | 25351382611202068 | Anterior: 001
-Atual: 002
-
-Zhejiang Xianju Pharmaceutical Co., Ltd. | fosfato dissódico de dexametasona | 25351415104202361 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | mesilato de etexilato de dabigatrana | 25351602200202266 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | tosilato de sorafenibe | 25351915465202141 | Anterior: 001
-Atual: 002
-
-Msn Laboratories Private Limited | palbociclibe | 25351431540202387 | Anterior: 001
-Atual: 002
-
+=== NOVAS ===
+Swati Spentose Private Limited, Unit-Ii. | dutasterida | 25351312251202380
