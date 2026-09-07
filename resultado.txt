@@ -1,6 +1,16 @@
 Resumo CADIFA
-Executado em: 04/09/2026 09:00:26
+
+Executado em: 07/09/2026 09:00:23
 
 Novas: 0
-Revisadas: 0
+Revisadas: 2
 Removidas: 0
+
+
+=== REVISADAS ===
+Biocon Limited | rosuvastatina cálcica | 25351591789202260 | Anterior: 002
+Atual: 002.1
+
+Cipla Limited | dicloridrato de trimetazidina | 25351145158202272 | Anterior: 001
+Atual: 001.1
+
