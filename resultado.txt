@@ -1,27 +1,6 @@
 Resumo CADIFA
+Executado em: 15/09/2026 09:00:18
 
-Executado em: 14/09/2026 09:00:23
-
-Novas: 15
+Novas: 0
 Revisadas: 0
-Removidas: 1
-
-=== NOVAS ===
-Sun Pharmaceutical Industries Limited | cloridrato de sertralina | 25351114179202246
-Sun Pharmaceutical Industries Limited | propionato de fluticasona | 25351088020202421
-Dr Reddys Farmacêutica Do Brasil Ltda | levetiracetam | 25351078614202423
-Sun Pharmaceutical Industries Limited | vismodegibe | 25351045971202677
-Shilpa Pharma Lifesciences Limited | mesilato de lenvatinibe | 25351017275202590
-Hetero Labs Limited | cloridrato de atomoxetina | 25351114320202553
-Asolution Pharmaceuticals Pvt. Ltd. | sugamadex sódico | 25351793830202150
-Harman Finochem Limited | hemitartarato de norepinefrina monoidratada | 25351358693202453
-Synthon Bv | lenalidomida | 25351807850202387
-Sun Pharmaceutical Industries Limited | lacosamida | 25351226464202551
-Wanbury Limited | cloridrato de metformina | 25351454913202479
-Honour Lab Limited | empagliflozina | 25351427875202481
-Hetero Drugs Limited | mirtazapina | 25351268546202310
-Sun Pharmaceutical Industries Limited | dapagliflozina propanodiol monoidratado | 25351355090202408
-Xellia Pharmaceuticals Aps | anfotericina b | 25351860617202322
-
-=== REMOVIDAS ===
-Bec Chemicals Private Limited | cetoprofeno | 25351184842202351
+Removidas: 0
