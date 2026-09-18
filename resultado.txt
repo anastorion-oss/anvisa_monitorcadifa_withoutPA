@@ -1,10 +1,6 @@
 Resumo CADIFA
+Executado em: 18/09/2026 09:00:23
 
-Executado em: 17/09/2026 09:00:17
-
-Novas: 1
+Novas: 0
 Revisadas: 0
 Removidas: 0
-
-=== NOVAS ===
-Bec Chemicals Private Limited | cetoprofeno | 25351184842202351
