@@ -1,6 +1,13 @@
 Resumo CADIFA
-Executado em: 18/09/2026 09:00:23
+
+Executado em: 21/09/2026 09:00:23
 
 Novas: 0
-Revisadas: 0
+Revisadas: 1
 Removidas: 0
+
+
+=== REVISADAS ===
+Heraeus Precious Metals Gmbh & Co. Kg | cloridrato do ácido aminolevulínico | 25351145024202502 | Anterior: 001.1
+Atual: 001
+
