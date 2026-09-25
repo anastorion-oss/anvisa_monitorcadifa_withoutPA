@@ -1,6 +1,43 @@
 Resumo CADIFA
-Executado em: 24/09/2026 09:00:24
 
-Novas: 0
-Revisadas: 0
+Executado em: 25/09/2026 09:00:22
+
+Novas: 23
+Revisadas: 3
 Removidas: 0
+
+=== NOVAS ===
+Hetero Labs Limited | dasatinibe | 25351301199202336
+Divi'S Laboratories Limited | gabapentina | 25351881372202377
+Hetero Labs Limited | anastrozol | 25351780323202318
+Zhejiang Huahai Pharmaceutical Co., Ltd. | valsartana | 25351568503202242
+Shakti Lifescience Private Limited | valerato de estradiol | 25351401058202401
+Alembic Pharmaceuticals Limited | bromidrato de vortioxetina | 25351504054202395
+Emcure Pharmaceuticals Limited | cloridrato de dexmedetomidina | 25351200072202309
+Cipla Limited | exemestano | 25351112796202398
+Targo Comércio Internacional Limitada | cloridrato de cefepima | 25351418624202325
+Bdr Lifesciences Private Limited | lenalidomida | 25351368762202437
+Solara Active Pharma Sciences Limited | pitavastatina cálcica pentaidratada | 25351364931202389
+Honour Lab Limited | citrato de tofacitinibe | 25351004248202638
+Angelini Pharma S.P.A | cloridrato de trazodona | 25351645542202271
+Msn Organics Private Limited | cloridrato de pioglitazona | 25351352149202317
+Hetero Labs Limited | lenalidomida | 25351259463202411
+Laurus Labs Limited | lenalidomida | 25351964289202413
+Zydus Lifesciences Limited | desloratadina | 25351423976202301
+Angelini Pharma S.P.A | cloridrato de trazodona | 25351415967202419
+Cadila Pharmaceuticals Limited | loratadina | 25351302160202255
+Zhejiang Tianyu Pharmaceutical Co., Ltd. | losartana potássica | 25351150973202415
+Keshava Organics Pvt. Ltd. | maleato de clorfeniramina | 25351150943202328
+Hetero Labs Limited | letrozol | 25351220214202265
+Msn Organics Private Limited | cloridrato de atomoxetina | 25351138602202546
+
+=== REVISADAS ===
+Viyash Scientific Limited | rivaroxabana | 25351039142202221 | Anterior: 001
+Atual: 002
+
+Viyash Scientific Limited | dicloridrato de meclozina monoidratado | 25351021199202355 | Anterior: 002
+Atual: 003
+
+Pint Pharma Produtos Medico-Hospitalares E Farmaceuticos Ltda | citrato de pacritinibe | 25351424448202441 | Anterior: 001
+Atual: 002
+
