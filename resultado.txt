@@ -1,6 +1,13 @@
 Resumo CADIFA
-Executado em: 05/10/2026 09:00:18
 
-Novas: 0
+Executado em: 06/10/2026 09:00:26
+
+Novas: 4
 Revisadas: 0
 Removidas: 0
+
+=== NOVAS ===
+Harman Finochem Limited | hemifumarato de bisoprolol | 25351370849202474
+Alembic Pharmaceuticals Limited | cloridrato de duloxetina | 25351325434202365
+Chr. Olesen Synthesis A/S | dimesilato de lisdexanfetamina | 25351423008202477
+Kolon Life Science, Inc. | pitavastatina cálcica pentaidratada | 25351265518202332
