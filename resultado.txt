@@ -1,12 +1,13 @@
 Resumo CADIFA
 
-Executado em: 19/10/2026 09:00:20
+Executado em: 20/10/2026 09:00:21
 
-Novas: 11
+Novas: 0
 Revisadas: 0
-Removidas: 0
+Removidas: 676
 
-=== NOVAS ===
+
+=== REMOVIDAS ===
 Msn Life Sciences Private Limited | esomeprazol sódico | 25351364636202411
 Harman Finochem Limited | cloridrato de metilfenidato | 25351231414202596
 Alivus Life Sciences Limited | desloratadina | 25351849706202318
@@ -18,3 +19,668 @@ Msn Life Sciences Private Limited | semaglutida | 25351451318202481
 Hetero Drugs Limited | besilato de anlodipino | 25351359224202371
 Sun Pharmaceutical Industries Limited | bosutinibe di-hidratado | 25351146014202586
 Intas Pharmaceuticals Limited | ticagrelor | 25351060071202498
+Harman Finochem Limited | hemifumarato de bisoprolol | 25351370849202474
+Alembic Pharmaceuticals Limited | cloridrato de duloxetina | 25351325434202365
+Euroapi Germany Gmbh | dipirona monoidratada | 25351230892202317
+Chr. Olesen Synthesis A/S | dimesilato de lisdexanfetamina | 25351423008202477
+Kolon Life Science, Inc. | pitavastatina cálcica pentaidratada | 25351265518202332
+Teva Farmacêutica Ltda. | cloridrato de daunorrubicina | 25351415971202487
+Micro Labs Limited | tartarato de brimonidina | 25351584936202326
+Hikal Limited | pregabalina | 25351169043202192
+Msn Pharmachem Private Limited | cloridrato de moxifloxacino | 25351941006202465
+Fersinsa Gb S.A. De C.V. | amoxicilina tri-hidratada | 25351400200202312
+Vasudha Pharma Chem Limited | loratadina | 25351233832202275
+Sun Pharmaceutical Industries Limited | bissulfato de clopidogrel | 25351135853202498
+Chifeng Arker Pharmaceutical Technology Co.,Ltd | cloridrato de pseudoefedrina | 25351533438202315
+Laurus Labs Limited | enzalutamida | 25351001382202415
+Hetero Labs Limited | dasatinibe | 25351301199202336
+Divi'S Laboratories Limited | gabapentina | 25351881372202377
+Hetero Labs Limited | anastrozol | 25351780323202318
+Zhejiang Huahai Pharmaceutical Co., Ltd. | valsartana | 25351568503202242
+Shakti Lifescience Private Limited | valerato de estradiol | 25351401058202401
+Alembic Pharmaceuticals Limited | bromidrato de vortioxetina | 25351504054202395
+Emcure Pharmaceuticals Limited | cloridrato de dexmedetomidina | 25351200072202309
+Cipla Limited | exemestano | 25351112796202398
+Targo Comércio Internacional Limitada | cloridrato de cefepima | 25351418624202325
+Bdr Lifesciences Private Limited | lenalidomida | 25351368762202437
+Solara Active Pharma Sciences Limited | pitavastatina cálcica pentaidratada | 25351364931202389
+Honour Lab Limited | citrato de tofacitinibe | 25351004248202638
+Angelini Pharma S.P.A | cloridrato de trazodona | 25351645542202271
+Msn Organics Private Limited | cloridrato de pioglitazona | 25351352149202317
+Hetero Labs Limited | lenalidomida | 25351259463202411
+Laurus Labs Limited | lenalidomida | 25351964289202413
+Zydus Lifesciences Limited | desloratadina | 25351423976202301
+Angelini Pharma S.P.A | cloridrato de trazodona | 25351415967202419
+Cadila Pharmaceuticals Limited | loratadina | 25351302160202255
+Zhejiang Tianyu Pharmaceutical Co., Ltd. | losartana potássica | 25351150973202415
+Keshava Organics Pvt. Ltd. | maleato de clorfeniramina | 25351150943202328
+Hetero Labs Limited | letrozol | 25351220214202265
+Msn Organics Private Limited | cloridrato de atomoxetina | 25351138602202546
+Xellia Pharmaceuticals Aps | anfotericina b | 25351860617202322
+Wanbury Limited | cloridrato de metformina | 25351454913202479
+Honour Lab Limited | empagliflozina | 25351427875202481
+Asolution Pharmaceuticals Pvt. Ltd. | sugamadex sódico | 25351793830202150
+Hetero Labs Limited | cloridrato de atomoxetina | 25351114320202553
+Sun Pharmaceutical Industries Limited | lacosamida | 25351226464202551
+Harman Finochem Limited | hemitartarato de norepinefrina monoidratada | 25351358693202453
+Synthon Bv | lenalidomida | 25351807850202387
+Sun Pharmaceutical Industries Limited | dapagliflozina propanodiol monoidratado | 25351355090202408
+Hetero Drugs Limited | mirtazapina | 25351268546202310
+Sun Pharmaceutical Industries Limited | cloridrato de sertralina | 25351114179202246
+Sun Pharmaceutical Industries Limited | propionato de fluticasona | 25351088020202421
+Dr Reddys Farmacêutica Do Brasil Ltda | levetiracetam | 25351078614202423
+Sun Pharmaceutical Industries Limited | vismodegibe | 25351045971202677
+Shilpa Pharma Lifesciences Limited | mesilato de lenvatinibe | 25351017275202590
+Dr Reddys Farmacêutica Do Brasil Ltda | gatifloxacino | 25351755793202343
+Kissei Pharmaceutical Co., Ltd. | linzagolixato de colina | 25351399700202477
+Ami Lifesciences Private Limited | tadalafila | 25351299954202496
+Heraeus Precious Metals Gmbh & Co. Kg | cloridrato do ácido aminolevulínico | 25351145024202502
+Zydus Lifesciences Limited | bromidrato de vortioxetina | 25351141871202590
+Bec Chemicals Private Limited | cetoprofeno | 25351184842202351
+Changzhou Pharmaceutical Factory | lenalidomida | 25351567349202372
+Dr Reddys Farmacêutica Do Brasil Ltda | valsartana | 25351508081202337
+Alivus Life Sciences Limited | dicloridrato de levocetirizina | 25351372678202256
+Ipca Laboratories Ltd. | hidroclorotiazida | 25351227277202595
+Ranke Química S.A. | ebastina | 25351570277202260
+Honour Lab Limited | ticagrelor | 25351156927202519
+Honour Lab Limited | brexpiprazol | 25351075968202505
+Dr Reddys Farmacêutica Do Brasil Ltda | levofloxacino hemi-hidratado | 25351957809202431
+Msn Laboratories Private Limited | carfilzomibe | 25351514099202297
+Shandong Anshun Pharmaceutical Co., Ltd. | piperacilina monoidratada | 25351387641202494
+Alivus Life Sciences Limited | cloridrato de lurasidona | 25351221146202413
+Malladi Drugs & Pharmaceuticals Limited | cloridrato de pseudoefedrina | 25351197304202326
+Zhuhai Rundu Pharmaceutical Co., Ltd. | sacubitril valsartana sódica hidratada | 25351386758202451
+Zaklady Farmaceutyczne Polpharma S.A. | ibandronato de sódio monoidratado | 25351154041202280
+Hubei Biocause Heilen Pharmaceutical Co., Ltd | dexibuprofeno | 25351138036202491
+Hetero Labs Limited | enzalutamida | 25351031614202541
+Zhejiang Huahai Pharmaceutical Co., Ltd. | linagliptina | 25351517487202319
+Zhejiang Huahai Pharmaceutical Co., Ltd. | olmesartana medoxomila | 25351454271202416
+Dr Reddys Farmacêutica Do Brasil Ltda | naproxeno sódico | 25351405623202400
+Honour Lab Limited | cloridrato de fingolimode | 25351650003202253
+Lee Pharma Limited | flurbiprofeno | 25351168865202580
+Janssen-Cilag Farmaceutica Ltda | cloridrato de icotroquinra | 25351152307202501
+Novartis Biociencias S.A | cloridrato de atrasentana | 25351144061202595
+Orphandc G Importacao E Distribuicao De Produtos Farmaceuticos Ltda | pegcetacoplana | 25351058556202501
+Dr Reddys Farmacêutica Do Brasil Ltda | atorvastatina cálcica tri-hidratada | 25351420035202498
+Asahi Kasei Finechem Co., Ltd. | citarabina | 25351412746202499
+Alivus Life Sciences Limited | bilastina | 25351030814202314
+Nivedita Chemicals Pvt Ltd | dicloridrato de trimetazidina | 25351281545202271
+Amoli Organics (A Division Of Umedica Laboratories Pvt. Ltd.) | cloridrato de venlafaxina | 25351259212202347
+Precise Biopharma Pvt. Ltd. | cloridrato de nafazolina | 25351639049202301
+Hetero Labs Limited | fumarato de tenofovir desoproxila | 25351444404202438
+Cipla Limited | fumarato de formoterol di-hidratado | 25351478409202201
+Dr Reddys Farmacêutica Do Brasil Ltda | dapagliflozina propanodiol monoidratado | 25351118543202417
+Abbvie Farmacêutica Ltda. | atogepanto hidratado | 25351423937202303
+Mac-Chem Products (India) Pvt. Ltd. | cloreto de suxametônio di-hidratado | 25351661066202235
+Scinopharm Taiwan, Ltd. | fulvestranto | 25351459466202282
+Nosch Labs Pvt.Ltd. | cloridrato de naratriptana | 25351311863202436
+Covalent Laboratories Private Limited | cefdinir | 25351221963202552
+Anuh Pharma Limited | fosfato dissódico de betametasona | 25351080720202558
+Olon S.P.A. | dicloridrato de betaistina | 25351429908202428
+Amoli Organics (A Division Of Umedica Laboratories Pvt. Ltd.) | clortalidona | 25351395611202451
+Mac-Chem Products (India) Pvt. Ltd. | cloreto de suxametônio di-hidratado | 25351238551202551
+The United Laboratories (Inner Mongolia) Co., Ltd. | amoxicilina tri-hidratada | 25351061671202392
+Dr Reddys Farmacêutica Do Brasil Ltda | fumarato de vonoprazana | 25351026985202519
+Swati Spentose Private Limited, Unit-Ii. | dutasterida | 25351312251202380
+Sun Pharmaceutical Industries Limited | semaglutida | 25351712607202381
+Swati Spentose Pvt. Ltd. | melatonina | 25351405348202335
+Viyash Scientific Limited | bilastina | 25351373233202455
+Msn Life Sciences Private Limited | empagliflozina | 25351922156202470
+Lee Pharma Limited | empagliflozina | 25351481887202371
+Hk Inno.N Corporation | tegoprazana | 25351455748202472
+Laurus Labs Limited | azacitidina | 25351293719202249
+Prati Donaduzzi & Cia Ltda | cabergolina | 25351296425202350
+Dr Reddys Farmacêutica Do Brasil Ltda | apixabana | 25351171164202366
+Msn Life Sciences Private Limited | bilastina | 25351082071202368
+Honour Lab Limited | empagliflozina | 25351452398202310
+Alivus Life Sciences Limited | citrato de tofacitinibe | 25351812829202301
+Maprimed S.A. | clonixinato de lisina | 25351377525202467
+Tianjin Tianyao Pharmaceuticals Co., Ltd. | betametasona | 25351255134202310
+Cipla Limited | dicloridrato de trimetazidina | 25351145158202272
+Chemi S.P.A. | cloridrato de givinostate monoidratado | 25351114858202568
+Hetero Labs Limited | atorvastatina cálcica tri-hidratada | 25351083726202315
+Msn Life Sciences Private Limited | sacubitril valsartana sódica hidratada | 25351111892202581
+Changzhou Pharmaceutical Factory | hidroclorotiazida | 25351229152202508
+Sun Pharmaceutical Industries Limited | empagliflozina | 25351068869202569
+Boehringer Ingelheim Do Brasil Quimica E Farmaceutica Ltda. | nerandomilaste | 25351059879202511
+Pfizer Brasil Ltda | hemietanolato de tucatinibe | 25351042238202510
+Hubei Haosun Pharmaceutical Co., Ltd. | amissulprida | 25351058955202563
+Biocon Limited | cloridrato de fingolimode | 25351061670202348
+Eli Lilly Do Brasil Ltda | pirtobrutinibe | 25351300927202210
+Msn Laboratories Private Limited | lenalidomida | 25351339711202317
+Pfizer Brasil Ltda | etrasimode arginina | 25351130299202452
+Granules India Limited | paracetamol | 25351028520202594
+Alivus Life Sciences Limited | esilato de nintedanibe hemi-hidratado | 25351600438202257
+Anqiu Lu'An Pharmaceutical Co., Ltd. | paracetamol | 25351382999202340
+Metrochem Api Private Limited | empagliflozina | 25351410790202464
+Hubei Biocause Heilen Pharmaceutical Co., Ltd | milrinona | 25351376152202245
+Zhejiang Huahai Pharmaceutical Co., Ltd. | empagliflozina | 25351604914202390
+Zhejiang Huahai Pharmaceutical Co., Ltd. | empagliflozina | 25351405815202416
+Micro Labs Limited | cloridrato de lurasidona | 25351155278202440
+Midas Pharma Gmbh | cloridrato do ácido aminolevulínico | 25351152928202586
+Ascendis Pharma A/S | palopegteriparatida | 25351084968202598
+Nosch Labs Pvt.Ltd. | cloridrato de moxifloxacino | 25351471785202266
+Tapi Brazil Ltda | risperidona | 25351042141202515
+Msn Laboratories Private Limited | cloridrato de ponatinibe | 25351098472202500
+Msn Organics Private Limited | cloridrato de atomoxetina | 25351133559202522
+Neuland Laboratories Limited | levetiracetam | 25351133964202460
+Msn Pharmachem Private Limited | cloridrato de moxifloxacino monoidratado | 25351004351202688
+Msn Laboratories Private Limited | ibrutinibe | 25351193011202531
+Teva Farmacêutica Ltda. | dipropionato de betametasona | 25351427731202425
+Astrazeneca Do Brasil Ltda | savolitinibe | 25351453474202487
+Msn Laboratories Private Limited | dasatinibe monoidratado | 25351747423202332
+Msn Laboratories Private Limited | ciclofosfamida monoidratada | 25351705835202303
+Lupin Limited, India | cefalexina monoidratada | 25351337677202346
+Msn Life Sciences Private Limited | valsartana | 25351098932202591
+Ctx Lifesciences Pvt. Ltd. | clortalidona | 25351082039202382
+Embio Limited | cloridrato de pseudoefedrina | 25351024972202505
+Hikal Limited | dapagliflozina propanodiol monoidratado | 25351637166202321
+Msn Laboratories Private Limited | apixabana | 25351507004202360
+Msn Laboratories Private Limited | regorafenibe monoidratado | 25351161162202369
+Honour Lab Limited | pirfenidona | 25351603004202217
+Msn Laboratories Private Limited | trometamol cetorolaco | 25351576424202396
+Msn Pharmachem Private Limited | bromidrato de vortioxetina | 25351296191202421
+Curia Spain Sau | dipropionato de beclometasona | 25351854627202329
+Sinopep-Allsino Biopharmaceutical Co., Ltd. | semaglutida | 25351120325202515
+Olon S.P.A. | cloridrato de daunorrubicina | 25351382977202461
+Shandong Xinhua Pharmaceutical Co., Ltd. | ácido acetilsalicílico | 25351507003202315
+Sun Pharmaceutical Industries Limited | brivaracetam | 25351109966202519
+Shanghai Desano Chemical Pharmaceutical Co., Ltd. | lamivudina | 25351041812202512
+Flamma S.P.A. | melatonina | 25351449267202347
+Eli Lilly Do Brasil Ltda | tosilato de inlunestranto | 25351435664202412
+Zaklady Farmaceutyczne Polpharma S.A. | empagliflozina | 25351127180202311
+Matrix Pharmacorp Private Limited | fosfato de sitagliptina | 25351581967202325
+Ami Lifesciences Private Limited | dicloridrato de betaistina | 25351403178202273
+Dr Reddys Farmacêutica Do Brasil Ltda | empagliflozina | 25351170349202353
+Laurus Labs Limited | efavirenz | 25351048961202421
+Msn Pharmachem Private Limited | maleato de carbinoxamina | 25351051848202261
+Farmabios S.P.A | fulvestranto | 25351648727202237
+Dr Reddys Farmacêutica Do Brasil Ltda | linagliptina | 25351170030202328
+Sci Pharmtech, Inc. | loxoprofeno sódico di-hidratado | 25351215604202485
+Formosa Laboratories Inc. | cloridrato de pazopanibe | 25351605244202329
+Chromo Laboratories India Private Limited | dolutegravir sódico | 25351518012202331
+Astrazeneca Do Brasil Ltda | camizestranto | 25351081649202521
+Nosch Labs Pvt.Ltd. | rosuvastatina cálcica | 25351416960202414
+Emcure Pharmaceuticals Limited | micofenolato de mofetila | 25351855315202171
+Patheon Austria Gmbh & Co Kg | fostamatinibe dissódico hexaidratado | 25351746083202322
+Abbvie Farmacêutica Ltda. | foscarbidopa hidratada | 25351296040202210
+Biocon Limited | lenalidomida | 25351484757202390
+Divi'S Laboratories Limited | carbidopa monoidratada | 25351070479202559
+Metrochem Api Private Limited | empagliflozina | 25351003836202310
+Sun Pharmaceutical Industries Limited | acetato de abiraterona | 25351364927202311
+Sun Pharmaceutical Industries Limited | pantoprazol sódico sesqui-hidratado | 25351386918202208
+Alivus Life Sciences Limited | ácido azelaico | 25351355934202411
+Neuland Laboratories Limited | cloridrato de donepezila monoidratado | 25351632628202233
+Alembic Pharmaceuticals Limited | empagliflozina | 25351417649202492
+Abbvie Farmacêutica Ltda. | foslevodopa | 25351037467202512
+Centaur Pharmaceuticals Pvt. Ltd. | maleato de timolol | 25351659911202211
+Macleods Pharmaceuticals Limited | fumarato de tenofovir desoproxila | 25351380515202417
+Msn Laboratories Private Limited | dapagliflozina propanodiol monoidratado | 25351146725202216
+Ipca Laboratories Ltd. | clortalidona | 25351223025202325
+Synthimed Labs Private Limited | ezetimiba | 25351130792202219
+Astellas Farma Brasil Importação E Distribuição De Medicamentos Ltda. | fezolinetanto | 25351574648202282
+Triquim S.A. | apixabana | 25351466090202262
+Astellas Farma Brasil Importação E Distribuição De Medicamentos Ltda. | fezolinetanto | 25351574663202221
+Ipca Laboratories Ltd. | etodolaco | 25351071656202271
+Aurisco Pharmaceutical Co.,Ltd. | acetato de abiraterona | 25351513882202152
+Fermic, S.A De C.V | clavulanato de potássio | 25351450251202468
+Eli Lilly Do Brasil Ltda | tirzepatida | 25351043565202416
+Gentec S.A. | travoprosta | 25351657311202218
+Teva Farmacêutica Ltda. | eltrombopague olamina | 25351558333202379
+Zydus Lifesciences Limited | miltefosina | 25351438894202433
+Granules India Limited | cloridrato de metformina | 25351586381202276
+Nortec Química S.A | cloridrato de fenilefrina | 25351409236202272
+Zhejiang Tianyu Pharmaceutical Co., Ltd. | vildagliptina | 25351204151202208
+Globe Quimica Ltda. | lamivudina | 25351375823202412
+Cristália Produtos Químicos Farmacêuticos Ltda. | dolutegravir sódico hidratado | 25351451401202451
+Sun Pharmaceutical Industries Limited | cloridrato de clomipramina | 25351121192202413
+Bal Pharma Limited | gliclazida | 25351779850202380
+Aspen Oss B.V. | acetato de noretisterona | 25351399291202417
+Ipca Laboratories Ltd. | mesalazina | 25351101861202279
+Alembic Pharmaceuticals Limited | cloridrato de ivabradina | 25351071292202572
+Dr Reddys Farmacêutica Do Brasil Ltda | dapagliflozina | 25351434552202363
+Honour Lab Limited | dapagliflozina | 25351601377202326
+Sun Pharmaceutical Industries Limited | levetiracetam | 25351294094202232
+Ami Lifesciences Private Limited | vildagliptina | 25351244351202295
+Eurofarma Laboratorios S.A. | cenobamato | 25351210705202460
+Natco Pharma Limited | anastrozol | 25351246621202201
+Alivus Life Sciences Limited | topiramato | 25351380504202429
+Msn Pharmachem Private Limited | montelucaste de sódio | 25351482067202215
+Honour Lab Limited | tosilato de edoxabana monoidratado | 25351148227202461
+Biocon Limited | sirolimo | 25351888384202411
+Aarti Pharmalabs Limited | furoato de mometasona monoidratado | 25351376523202451
+Nortec Química S.A | fumarato de tenofovir desoproxila | 25351013614202569
+Malladi Drugs & Pharmaceuticals Limited | fenilefrina | 25351096355202331
+Newchem S.P.A. | bimatoprosta | 25351364595202374
+Msn Laboratories Private Limited | levomalato de cabozantinibe | 25351324307202420
+Matrix Pharmacorp Private Limited | cloridrato de trazodona | 25351177610202346
+Zydus Lifesciences Limited | succinato de metoprolol | 25351564144202254
+Intas Pharmaceuticals Limited | paclitaxel | 25351348787202252
+Natco Pharma Limited | cloridrato  de ondansetrona di-hidratado | 25351314351202341
+Sanofi Medley Farmacêutica Ltda. | fitusirana sódica | 25351805707202351
+Hetero Labs Limited | entricitabina | 25351449294202409
+Leo Pharma Ltda | calcipotriol monoidratado | 25351000683202511
+Laurus Labs Limited | vildagliptina | 25351020952202395
+Granules India Limited | eltrombopague olamina | 25351106130202481
+Alivus Life Sciences Limited | mirabegrona | 25351404684202280
+Astellas Farma Brasil Importação E Distribuição De Medicamentos Ltda. | avacincaptade pegol sódico | 25351046702202547
+Ys Life Science Co., Ltd. | latanoprosta | 25351618787202225
+Pint Pharma Produtos Medico-Hospitalares E Farmaceuticos Ltda | citrato de pacritinibe | 25351424448202441
+Ipca Laboratories Ltd. | losartana potássica | 25351577562202210
+Teva Farmacêutica Ltda. | sulfato de bleomicina | 25351126520202478
+Emcure Pharmaceuticals Limited | leflunomida | 25351595107202298
+Takeda Farmaceutica Brasil Ltda | fruquintinibe | 25351062240202513
+Merck Healthcare Kgaa | arpraziquantel | 25351264640202472
+Cdymax (India) Pharma Private Limited | palbociclibe | 25351602992202279
+Fleming Laboratories Limited | risedronato sódico hemipentaidratado | 25351417879202451
+Divi'S Laboratories Limited | levodopa | 25351396231202434
+Cristália Produtos Químicos Farmacêuticos Ltda. | hemifumarato de quetiapina | 25351609899202295
+Synthimed Labs Private Limited | nitazoxanida | 25351645270202217
+Optimus Drugs Private Limited | nitrato de fenticonazol | 25351014971202544
+Triquim S.A. | cloridrato  de ondansetrona di-hidratado | 25351236293202498
+Dipharma Francis S.R.L. | cloridrato de ciclobenzaprina | 25351377050202417
+Olon S.P.A. | brometo de glicopirrônio | 25351866447202390
+Msn Laboratories Private Limited | ezetimiba | 25351011622202571
+Zydus Lifesciences Limited | peróxido de benzoíla | 25351431150202498
+Sun Pharmaceutical Industries Limited | fosfato de sitagliptina | 25351648234202205
+Supriya Lifescience Ltd. | maleato de bronfeniramina | 25351694996202356
+Emcure Pharmaceuticals Limited | mesilato de eribulina | 25351456286202419
+Dr Reddys Farmacêutica Do Brasil Ltda | apremilaste | 25351402841202484
+Lee Pharma Limited | bilastina | 25351035922202383
+Guilin Hwasun Pharmaceutical Co., Ltd. | fosfomicina trometamol | 25351373156202433
+Ys Life Science Co., Ltd. | bimatoprosta | 25351594980202263
+Hetero Labs Limited | oxalato de escitalopram | 25351501193202367
+Intas Pharmaceuticals Limited | dasatinibe monoidratado | 25351846331202172
+Qilu Antibiotics Pharmaceutical Co., Ltd. | cefazolina sódica | 25351371359202495
+Msn Pharmachem Private Limited | fosfato de oseltamivir | 25351104144202461
+Alembic Pharmaceuticals Limited | macitentana | 25351000069202541
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | bimatoprosta | 25351440095202265
+Bridgebio Pharma, Inc. | cloridrato de acoramidis | 25351209898202414
+Biophore India Pharmaceuticals Pvt. Ltd | ramelteona | 25351248600202301
+Nortec Química S.A | entricitabina | 25351013575202508
+Msn Laboratories Private Limited | cloridrato de olopatadina | 25351456102202241
+Ptc Farmaceutica Do Brasil Ltda. | sepiapterina | 25351392291202488
+Nosch Labs Pvt.Ltd. | cloridrato de sertralina | 25351367784202480
+Suzhou Lixin Pharmaceutical Co., Ltd. | dacarbazina | 25351046241202511
+Verdant Life Sciences Pvt., Limited | cloridrato de sertralina | 25351372758202392
+Alembic Pharmaceuticals Limited | cloridrato de clonidina | 25351228507202291
+Hebei Jiheng Pharmaceutical Co., Ltd. | paracetamol | 25351143488202223
+Urquima, S.A. | bilastina monoidratada | 25351222993202233
+Embio Limited | dimesilato de lisdexanfetamina | 25351774003202329
+Zhejiang Huahai Pharmaceutical Co., Ltd. | ácido azelaico | 25351724767202373
+Farmabios S.P.A | acetato de clormadinona | 25351076889202422
+Formosa Laboratories Inc. | temozolomida | 25351766094202329
+Beaufour Ipsen Farmacêutica Ltda | bromidrato de tazemetostate | 25351424720202493
+Hybio Pharmaceutical Co., Ltd. | acetato de terlipressina | 25351009574202551
+Gilead Sciences Farmaceutica Do Brasil Ltda | lenacapavir sódico | 25351419859202415
+Matrix Pharmacorp Private Limited | cloridrato de sertralina | 25351250720202360
+Alembic Pharmaceuticals Limited | azitromicina di-hidratada | 25351581742202115
+Dr Reddys Farmacêutica Do Brasil Ltda | cloridrato de moxifloxacino | 25351455707202214
+Hetero Labs Limited | bromidrato de vortioxetina | 25351632937202211
+Divi'S Laboratories Limited | bromidrato de dextrometorfano monoidratado | 25351235325202357
+Produtos Roche Químicos E Farmacêuticos S.A. | inavolisibe | 25351359290202421
+Jubilant Biosys Limited | oxalato de escitalopram | 25351362096202181
+Sun Pharmaceutical Industries Limited | cloridrato de lurasidona | 25351637498202314
+Exemed Pharmaceuticals | cloridrato de metformina | 25351289158202364
+Hetero Labs Limited | anastrozol | 25351213099202272
+Concord Biotech Limited | midostaurina | 25351535884202283
+Alembic Pharmaceuticals Limited | olaparibe | 25351384266202421
+Alivus Life Sciences Limited | ezetimiba | 25351376538202257
+Sun Pharmaceutical Industries Limited | cloridrato de metformina | 25351290782202223
+Cristália Produtos Químicos Farmacêuticos Ltda. | cloridrato de levobupivacaína | 25351430629202415
+Cristália Produtos Químicos Farmacêuticos Ltda. | cloridrato de dextrobupivacaína | 25351430646202444
+Polypeptide Group Ag | argipressina | 25351361638202441
+Biocodex | estiripentol | 25351247171202427
+Msn Laboratories Private Limited | olmesartana medoxomila | 25351279011202447
+Micro Labs Limited | brivaracetam | 25351300253202415
+Biocodex | estiripentol | 25351247172202471
+Aarti Drugs Limited | hemitartarato de zolpidem | 25351572312202285
+Symbiotec Pharmalab Private Limited | fosfato sódico de prednisolona | 25351417556202468
+Zhejiang Xianju Pharmaceutical Co., Ltd. | fosfato dissódico de dexametasona | 25351415104202361
+Bayer S.A. | sevabertinibe | 25351062927202541
+Hetero Drugs Limited | cloridrato de moxifloxacino monoidratado | 25351379836202380
+Reliance Life Sciences Pvt. Ltd. | lenalidomida | 25351431432202495
+Alembic Pharmaceuticals Limited | pregabalina | 25351637304202291
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | latanoprosta | 25351577589202202
+Alivus Life Sciences Limited | adapaleno | 25351439221202409
+Biocon Limited | fosfato de sitagliptina monoidratado | 25351503091202203
+Ipca Laboratories Ltd. | cloridrato de propranolol | 25351356317202262
+Vertex Farmaceutica Do Brasil Ltda. | tezacaftor | 25351361874202386
+Dasami Lab Private Limited | maleato de fluvoxamina | 25351223864202424
+Hubei Biocause Heilen Pharmaceutical Co., Ltd | ibuprofeno | 25351305688202286
+Shodhana Laboratories Private Limited | oxalato de escitalopram | 25351548824202221
+Nortec Química S.A | cloridrato de bupivacaína monoidratado | 25351413099202432
+Hetero Drugs Limited | cloridrato de ciclobenzaprina | 25351234633202284
+Divi'S Laboratories Limited | orlistate | 25351281650202391
+Aspen Oss B.V. | estradiol hemi-hidratado | 25351190997202326
+Ucb Pharma S.A | cloridrato de fenfluramina | 25351148701202455
+Harman Finochem Limited | divalproato de sódio | 25351627056202271
+Changzhou Pharmaceutical Factory | hidroclorotiazida | 25351307815202443
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | dienogeste | 25351512765202333
+Dr Reddys Farmacêutica Do Brasil Ltda | mirabegrona | 25351501765202227
+Matrix Pharmacorp Private Limited | dexlansoprazol sesqui-hidratado | 25351397786202401
+Globe Quimica Ltda. | fosfato de oseltamivir | 25351205813202411
+Zhejiang Xianju Pharmaceutical Co., Ltd. | prednisolona | 25351399589202257
+Sterling S.P.A. | furoato de mometasona monoidratado | 25351408483202413
+Iol Chemicals And Pharmaceuticals Limited | ibuprofeno | 25351538000202242
+Lupin Manufacturing Solutions Limited | empagliflozina | 25351208397202411
+Biocon Limited | dapagliflozina butanodiol monoidratado | 25351387748202432
+Astrazeneca Do Brasil Ltda | eplontersena sódica | 25351837528202382
+Zhejiang Huahai Pharmaceutical Co., Ltd. | carvedilol | 25351141272202312
+Indena Brasil Representação Ltda | paclitaxel | 25351383927202409
+Aurobindo Pharma Produtos Farmacêuticos Ltda | bissulfato de clopidogrel | 25351334000202275
+Brightgene Bio-Medical Technology Co., Ltd. | micafungina sódica | 25351428878202351
+Hetero Drugs Limited | cloridrato de lurasidona | 25351497520202379
+Emcure Pharmaceuticals Limited | cloridrato de melfalana | 25351161161202314
+Nortec Química S.A | olanzapina | 25351270853202352
+Malladi Drugs & Pharmaceuticals Limited | cloridrato de fenilefrina | 25351197305202371
+Solara Active Pharma Sciences Limited | cloridrato de buspirona | 25351314668202468
+Vpl Chemicals Private Limited | minoxidil | 25351574782202364
+Libbs Farmacêutica Ltda | estradiol hemi-hidratado | 25351499748202301
+Qinhuangdao Zizhu Pharmaceutical Co., Ltd. | estradiol hemi-hidratado | 25351517490202324
+Lupin Manufacturing Solutions Limited | dapagliflozina | 25351219586202419
+Beaufour Ipsen Farmacêutica Ltda | elafibranor | 25351068368202400
+Nosch Labs Pvt.Ltd. | silodosina | 25351254249202206
+Huzhou Zhanwang Pharmaceutical Co. Ltd. | metotrexato | 25351371358202441
+Granules India Limited | guaifenesina | 25351478629202315
+Olon S.P.A. | minoxidil | 25351263421202395
+Lake Chemicals Private Limited | maleato de fluvoxamina | 25351284880202493
+Curia Spain Sau | clascoterona | 25351125416202466
+Aarti Drugs Limited | metronidazol | 25351032545202321
+Janssen-Cilag Farmaceutica Ltda | mesilato de lazertinibe monoidratado | 25351822990202385
+Janssen-Cilag Farmaceutica Ltda | mesilato de lazertinibe monoidratado | 25351434685202411
+Swati Spentose Private Limited, Unit-Ii. | estradiol hemi-hidratado | 25351071608202445
+Natco Pharma Limited | mesilato de eribulina | 25351034145202511
+Morepen Laboratories Limited | loratadina | 25351149450202345
+Alembic Pharmaceuticals Limited | claritromicina | 25351225981202261
+Aarti Drugs Limited | cetoconazol | 25351091055202447
+Tapi Brazil Ltda | fosfato de fludarabina | 25351360288202403
+Alivus Life Sciences Limited | adapaleno | 25351081775202402
+Zhejiang Xianju Pharmaceutical Co., Ltd. | etinilestradiol | 25351351831202210
+Alembic Pharmaceuticals Limited | dapagliflozina | 25351894250202421
+Sun Pharmaceutical Industries Limited | acetato de ganirrelix | 25351199473202481
+Alembic Pharmaceuticals Limited | cloridrato de venlafaxina | 25351255406202373
+Newchem S.P.A. | drospirenona | 25351670318202306
+Qilu Pharmaceutical Co., Ltd. | carboplatina | 25351155916202180
+Biogen Brasil Produtos Farmaceuticos Ltda | omaveloxolona | 25351067441202418
+Aarti Drugs Limited | nimesulida | 25351191512202231
+Divi'S Laboratories Limited | naproxeno sódico | 25351749917202351
+Hikal Limited | cloridrato de bupropiona | 25351497489202376
+Vertex Farmaceutica Do Brasil Ltda. | ivacaftor | 25351361785202330
+Laboratorios Servier Do Brasil Ltda | ácido hemicítrico vorasidenibe hemi-hidratado | 25351847477202305
+Zhejiang Huahai Pharmaceutical Co., Ltd. | mesilato de safinamida | 25351266164202424
+Optimus Drugs Private Limited | mesilato de safinamida | 25351183937202438
+Cohance Lifesciences Limited | cloridrato de metilfenidato | 25351419172202480
+Alembic Pharmaceuticals Limited | cloridrato de bupropiona | 25351497376202371
+Supriya Lifescience Ltd. | maleato de clorfeniramina | 25351497378202360
+Cipla Limited | cloridrato  de ondansetrona di-hidratado | 25351717493202366
+Sanofi Medley Farmacêutica Ltda. | mesilato de belumosudil | 25351850099202339
+Msn Pharmachem Private Limited | lacosamida | 25351416725202442
+Intas Pharmaceuticals Limited | azacitidina | 25351851435202107
+Alivus Life Sciences Limited | ácido azelaico | 25351479418202391
+Edmond Pharma S.R.L. | cloridrato de dexmedetomidina | 25351289617202229
+Aspen Oss B.V. | undecilato de testosterona | 25351629018202333
+Unique Chemicals | diclofenaco | 25351453693202113
+Alivus Life Sciences Limited | cloridrato de olopatadina | 25351637549202308
+Taro Pharmaceutical Industries Ltd. | cloridrato de oxomemazina | 25351388057202375
+Aarti Pharmalabs Limited | adapaleno | 25351077930202488
+Dr Reddys Farmacêutica Do Brasil Ltda | sugamadex sódico | 25351919670202002
+Hy-Gro Chemicals Pharmtek Private Limited | flurbiprofeno | 25351345381202307
+Mirum Pharmaceuticals, Inc. | cloreto de maralixibate | 25351563718202358
+Delta Synthetic Co., Ltd. | guaifenesina | 25351525011202343
+Globe Quimica Ltda. | propilenoglicolato de darunavir | 25351243842202308
+Hetero Drugs Limited | cloridrato de dorzolamida | 25351096021202287
+Viyash Scientific Limited | dicloridrato de meclozina monoidratado | 25351021199202355
+Neuland Laboratories Limited | ezetimiba | 25351345388202230
+Usv Private Limited | cloridrato de metformina | 25351383060202301
+Sun Pharmaceutical Industries Limited | cloridrato de pazopanibe | 25351404992202396
+Sms Pharmaceuticals Limited | levetiracetam | 25351811240202388
+Dr Reddys Farmacêutica Do Brasil Ltda | cloridrato de bendamustina monoidratada | 25351264757202111
+Fdc Limited | cloridrato de olopatadina | 25351711668202321
+Cyg Biotech Qumica & Farmaceutica Ltda. | lamivudina | 25351031578202434
+Unique Chemicals | diclofenaco sódico | 25351739954202190
+Shandong Anshun Pharmaceutical Co., Ltd. | tazobactam | 25351072899202316
+Msn Laboratories Private Limited | palbociclibe | 25351431540202387
+Zhejiang Raybow Pharmaceutical Co., Ltd. | cetoprofeno | 25351514888202228
+Cf Pharma Ltd. | cloridrato de biperideno | 25351245563202451
+Vertex Farmaceutica Do Brasil Ltda. | elexacaftor | 25351361427202327
+Hunan Yuxin Pharmaceutical Co., Ltd. | finasterida | 25351116666202324
+Sun Pharmaceutical Industries Limited | lenalidomida | 25351590241202383
+Zhejiang Huahai Pharmaceutical Co., Ltd. | pregabalina | 25351459478202215
+Fleming Laboratories Limited | dicloridrato de meclozina monoidratado | 25351042255202395
+Novartis Biociencias S.A | cloridrato de iptacopana monoidratado | 25351555119202361
+Metrochem Api Private Limited | fumarato de vonoprazana | 25351741577202311
+Formil Quimica Ltda | cloridrato de midazolam | 25351462214202231
+Tianjin Tianyao Pharmaceuticals Co., Ltd. | fosfato dissódico de dexametasona | 25351197307202360
+Astrazeneca Do Brasil Ltda | danicopana | 25351190257202390
+Msn Pharmachem Private Limited | cloridrato de lurasidona | 25351579766202368
+Dr Reddys Farmacêutica Do Brasil Ltda | eszopiclona | 25351822689202371
+Intas Pharmaceuticals Limited | cloridrato de gencitabina | 25351351709202235
+Jubilant Biosys Limited | azitromicina di-hidratada | 25351517606202244
+Zhejiang Guobang Pharmaceutical Co., Ltd | cloridrato de moxifloxacino monoidratado | 25351415106202350
+Rolabo Outsourcing, S.L. | cloridrato de palonosetrona | 25351860688202325
+Amgen Biotecnologia Do Brasil Ltda. | avacopana | 25351416843202370
+Zhejiang Xianju Pharmaceutical Co., Ltd. | valerato de estradiol | 25351506854202341
+Supriya Lifescience Ltd. | cloridrato de escetamina | 25351308822202381
+Concord Biotech Limited | sirolimo | 25351448752202212
+Mangalam Drugs And Organics Limited | nimesulida | 25351645221202276
+Msn Laboratories Private Limited | bortezomibe | 25351635373202180
+Aurobindo Pharma Produtos Farmacêuticos Ltda | levetiracetam | 25351819514202387
+Sharon Bio-Medicine Ltd. | dicloridrato de trimetazidina | 25351171502202289
+Solara Active Pharma Sciences Limited | praziquantel | 25351463953202321
+Hetero Labs Limited | bromidrato de vortioxetina | 25351581974202327
+Honour Lab Limited | benzoato de alogliptina | 25351225839202302
+Aurobindo Pharma Produtos Farmacêuticos Ltda | finasterida | 25351599839202257
+Dr Reddys Farmacêutica Do Brasil Ltda | fumarato de dimetila | 25351855399202312
+Noramco, Llc | cloridrato de oxicodona | 25351417941202243
+Nortec Química S.A | mucato de isometepteno | 25351582408202251
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | levonorgestrel | 25351236616202281
+Sun Pharmaceutical Industries Limited | ticagrelor | 25351425401202314
+Vasudha Pharma Chem Limited | cloridrato de ciclobenzaprina | 25351166176202379
+Micro Labs Limited | mirabegrona | 25351564538202393
+Zhejiang Tianyu Pharmaceutical Co., Ltd. | ezetimiba | 25351220203202285
+Produtos Roche Químicos E Farmacêuticos S.A. | vismodegibe | 25351102326202235
+Dr Reddys Farmacêutica Do Brasil Ltda | trometamol cetorolaco | 25351244080202014
+Centaur Pharmaceuticals Pvt. Ltd. | cloridrato de benzidamina | 25351555432202218
+Sharon Bio-Medicine Ltd. | nitrato de miconazol | 25351335810202249
+Carbogen Amcis Ag | pemigatinibe | 25351309086202389
+Neuland Laboratories Limited | levofloxacino hemi-hidratado | 25351014505202135
+Jubilant Biosys Limited | bromidrato de galantamina | 25351478422202251
+Shandong Xinhua Pharmaceutical Co., Ltd. | dipirona monoidratada | 25351626782202276
+Cipla Limited | rivaroxabana | 25351500435202214
+Unichem Farmacêutica Do Brasil Ltda | cloridrato de buspirona | 25351388549202361
+Rusan Pharma Ltd | cloridrato de naltrexona | 25351002633202217
+Dr Reddys Farmacêutica Do Brasil Ltda | cloridrato de lurasidona | 25351501810202243
+Shandong Anshun Pharmaceutical Co., Ltd. | piperacilina monoidratada | 25351072898202363
+Wanbury Limited | cloridrato de tramadol | 25351582994202234
+Dipharma Francis S.R.L. | ácido ursodesoxicólico | 25351398922202391
+Unión Químico Farmacéutica S.A. (Uquifa, S.A.) | aciclovir | 25351526336202262
+Harman Finochem Limited | fenofibrato | 25351604683202233
+Shandong New Time Pharmaceutical Co., Ltd. | clavulanato de potássio | 25351199805202347
+Hetero Labs Limited | levetiracetam | 25351229934202377
+Zhuhai United Laboratories Co., Ltd. | ceftriaxona dissódica hemieptaidratada | 25351140907202275
+Ipca Laboratories Ltd. | glimepirida | 25351042814202286
+Sun Pharmaceutical Industries Limited | topiramato | 25351069519202277
+Shodhana Laboratories Private Limited | cloridrato  de ondansetrona di-hidratado | 25351567351202341
+Synthimed Labs Private Limited | dimesilato de lisdexanfetamina | 25351380342202348
+Siegfried Pharmachemikalien Minden Gmbh | cloridrato de naltrexona | 25351106351202298
+Zhejiang Huahai Pharmaceutical Co., Ltd. | levetiracetam | 25351302018202399
+Ami Lifesciences Private Limited | fumarato de vonoprazana | 25351807440202336
+Synthimed Labs Private Limited | dimesilato de lisdexanfetamina | 25351425844202313
+Anlon Healthcare Limited | loxoprofeno sódico di-hidratado | 25351214974202314
+Interquim, S.A. | palmitato de paliperidona | 25351603386202271
+Moehs Ibérica, S.L. | hemifumarato de quetiapina | 25351845681202111
+Zhejiang Hisun Pharmaceutical Co., Ltd. | ivermectina | 25351466676202227
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214
+Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd. | tobramicina | 25351503108202214
+Dr Reddys Farmacêutica Do Brasil Ltda | rivaroxabana | 25351286729202228
+Euroapi Hungary Ltd. | latanoprosta | 25351331626202220
+Centaur Pharmaceuticals Pvt. Ltd. | maleato de timolol | 25351045310202218
+Triquim S.A. | sugamadex sódico | 25351537989202277
+Torrent Pharmaceuticals Limited | cloridrato de lurasidona | 25351672663202112
+Farmak, A.S. | tartarato de brimonidina | 25351274225202265
+Aarti Drugs Limited | diclofenaco dietilamônio | 25351463235202273
+Nosch Labs Pvt.Ltd. | trometamol cetorolaco | 25351220709202294
+Lebsa (Laboratorios Espinós Y Bofill Sa) | bromoprida | 25351414658202260
+Alivus Life Sciences Limited | vildagliptina | 25351254242202286
+Sun Pharmaceutical Industries Limited | malato de sunitinibe | 25351181549202331
+Zhejiang Guobang Pharmaceutical Co., Ltd | ciprofloxacino | 25351097818202200
+Zhejiang Guobang Pharmaceutical Co., Ltd | cloridrato de ciprofloxacino monoidratado | 25351386512202306
+Hetero Labs Limited | cloridrato de bendamustina monoidratada | 25351631373202119
+Emcure Pharmaceuticals Limited | bussulfano | 25351097388202218
+Biocon Limited | rosuvastatina cálcica | 25351591789202260
+Arene Life Sciences Private Limited | cloridrato de trazodona | 25351490239202224
+Siegfried Pharmachemikalien Minden Gmbh | cafeína | 25351260915202237
+Shouguang Fukang Pharmaceutical Co., Ltd. | cloridrato de metformina | 25351031776202236
+Cspc Innovation Pharmaceutical Co., Ltd. | cafeína | 25351618790202249
+Triquim S.A. | benfotiamina | 25351115898202365
+Biophore India Pharmaceuticals Pvt. Ltd | sugamadex sódico | 25351558506202359
+Zhejiang Jiuzhou Pharmaceutical Co., Ltd. | gliclazida | 25351351922202247
+Tapi Brazil Ltda | sugamadex sódico | 25351514485202289
+Msn Laboratories Private Limited | dapagliflozina | 25351090758202296
+Zhejiang Guobang Pharmaceutical Co., Ltd | claritromicina | 25351082643202228
+Msn Pharmachem Private Limited | linagliptina | 25351923314202166
+Msn Life Sciences Private Limited | bilastina | 25351010782202331
+Ipca Laboratories Ltd. | etodolaco | 25351019323202231
+Sun Pharmaceutical Industries Limited | desloratadina | 25351120956202291
+Honour Lab Limited | vildagliptina | 25351631107202269
+Janssen-Cilag Farmaceutica Ltda | ibrutinibe | 25351161141202343
+Zhejiang Syncotide Bio-Pharmaceutical Co., Ltd. | hemifumarato de quetiapina | 25351127200202273
+Dr Reddys Farmacêutica Do Brasil Ltda | ondansetrona | 25351143111202274
+Micro Labs Limited | rivaroxabana | 25351176871202268
+Newchem S.P.A. | dienogeste | 25351497379202312
+Cayman Pharma S.R.O. | bimatoprosta | 25351254307202293
+Dr Reddys Farmacêutica Do Brasil Ltda | palbociclibe | 25351244335202201
+Basf S/A | ibuprofeno | 25351582712202207
+Aspen Oss B.V. | valerato de estradiol | 25351325427202363
+Aarti Drugs Limited | cloridrato de ciprofloxacino monoidratado | 25351441102202246
+Chirogate International Inc. | bimatoprosta | 25351403161202216
+Vasudha Pharma Chem Limited | trometamol cetorolaco | 25351197420202264
+Dr Reddys Farmacêutica Do Brasil Ltda | cloridrato de sitagliptina monoidratado | 25351152535202220
+Zaklady Farmaceutyczne Polpharma S.A. | rivaroxabana | 25351129975202364
+Recordati Industria Chimica E Farmaceutica S.P.A. | dimenidrinato | 25351482939202245
+Moehs Ibérica, S.L. | rivaroxabana | 25351132413202217
+Zhejiang Raybow Pharmaceutical Co., Ltd. | carbamazepina | 25351034221202246
+Msn Laboratories Private Limited | mesilato de etexilato de dabigatrana | 25351602200202266
+Msn Organics Private Limited | cloridrato de cinacalcete | 25351153141202299
+Saneca Pharmaceuticals A.S. | rivastigmina | 25351259219202369
+Cohance Lifesciences Limited | hemifumarato de quetiapina | 25351285445202214
+Hetero Drugs Limited | cloridrato de raloxifeno | 25351112060202239
+Aragen Life Sciences Limited | dicloridrato de trimetazidina | 25351243098202252
+Alembic Pharmaceuticals Limited | rivaroxabana | 25351135445202355
+Kreative Organics Private Limited | etodolaco | 25351012214202293
+Sun Pharmaceutical Industries Limited | maleato de fluvoxamina | 25351631366202290
+Si Group, Inc. | ibuprofeno | 25351645366202277
+Aarti Drugs Limited | cloridrato de metformina | 25351500405202216
+Zhejiang Guobang Pharmaceutical Co., Ltd | azitromicina di-hidratada | 25351331698202277
+Lupin Limited, India | pirazinamida | 25351204540202225
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | gestodeno | 25351380181202210
+Piramal Pharma Limited | cloridrato de trazodona | 25351277460202299
+Torrent Pharmaceuticals Limited | cloridrato de nebivolol | 25351244023202299
+Hetero Labs Limited | carboplatina | 25351054996202319
+Aurobindo Pharma Produtos Farmacêuticos Ltda | propilenoglicolato de darunavir | 25351347109202272
+Aurore Life Sciences Private Limited | cloridrato de valaciclovir | 25351365239202297
+Ruyuan Hec Pharm Co., Ltd. | rosuvastatina cálcica | 25351108158202291
+Zaklady Farmaceutyczne Polpharma S.A. | etodolaco | 25351498688202211
+Megafine Pharma (P) Ltd. | rivaroxabana | 25351180024202206
+Hetero Labs Limited | azacitidina | 25351639418202276
+Dr Reddys Farmacêutica Do Brasil Ltda | midostaurina | 25351727015202101
+Ipca Laboratories Ltd. | cloridrato de metilfenidato | 25351053889202373
+Viyash Scientific Limited | tartarato de brimonidina | 25351498531202295
+Pfizer Brasil Ltda | tafamidis meglumina | 25351090422202223
+Zhejiang Jiuzhou Pharmaceutical Co., Ltd. | cetoprofeno | 25351127199202287
+Euroapi Hungary Ltd. | latanoprosta | 25351147798202306
+Aspen Oss B.V. | budesonida | 25351152957202203
+Hetero Drugs Limited | ritonavir | 25351389816202236
+Glaxosmithkline Brasil Ltda | amoxicilina tri-hidratada | 25351770682202103
+Zhejiang Jiangbei Pharmaceutical Co., Ltd. | sinvastatina | 25351171106202251
+Alcaliber S.A. | sulfato de morfina pentaidratado | 25351257070202111
+Pcas | brometo de glicopirrônio | 25351015195202257
+Aspen Oss B.V. | budesonida | 25351036030202219
+Viyash Scientific Limited | rivaroxabana | 25351039142202221
+Morepen Laboratories Limited | montelucaste de sódio | 25351796853202116
+Synthon Bv | sugamadex sódico | 25351779849202193
+Fdc Limited | maleato de timolol | 25351087503202246
+Medichem S.A. | micafungina sódica | 25351543525202208
+Harman Finochem Limited | fenitoína | 25351122886202214
+Nortec Química S.A | micofenolato de sódio | 25351448083202289
+Emcure Pharmaceuticals Limited | milrinona | 25351038756202296
+Neuland Laboratories Limited | mirtazapina | 25351589465202261
+Ctx Lifesciences Pvt. Ltd. | succinato de metoprolol | 25351287504202116
+Ulkar Kimya Sanayii Ve Ticaret A.S. | etodolaco | 25351171112202217
+Msn Pharmachem Private Limited | vildagliptina | 25351407050202289
+Cohance Lifesciences Limited | lamotrigina | 25351699210202125
+Hubei Yitai Pharmaceutical Co., Ltd. | aciclovir | 25351473051202131
+Janssen-Cilag Farmaceutica Ltda | etanolato de darunavir | 25351122285202201
+Torrent Pharmaceuticals Limited | lamotrigina | 25351171478202288
+Wuhan Wuyao Pharmaceutical Co., Ltd. | dipirona monoidratada | 25351596512202223
+Tapi Brazil Ltda | dasatinibe monoidratado | 25351543510202231
+Sun Pharmaceutical Industries Limited | cloridrato de donepezila monoidratado | 25351244345202238
+Zhejiang Hisun Pharmaceutical Co., Ltd. | adenosina | 25351008874202199
+Moehs Ibérica, S.L. | hemifumarato de bisoprolol | 25351618932202197
+Tapi Brazil Ltda | rivaroxabana | 25351312133202291
+Shilpa Pharma Lifesciences Limited | bortezomibe | 25351839141202107
+Dr Reddys Farmacêutica Do Brasil Ltda | lenalidomida | 25351068660202252
+Zhuhai United Laboratories Co., Ltd. | ampicilina sódica | 25351433410202117
+Chemwerth, Inc. | milrinona | 25351869642202118
+Msn Pharmachem Private Limited | bromidrato de vortioxetina | 25351252213202280
+Matrix Pharmacorp Private Limited | hemitartarato de zolpidem | 25351580744202189
+Msn Pharmachem Private Limited | aripiprazol | 25351524957202210
+Sun Pharmaceutical Industries Limited | mesilato de lenvatinibe | 25351206913202201
+Dr Reddys Farmacêutica Do Brasil Ltda | cloridrato de naratriptana | 25351673613202225
+Intas Pharmaceuticals Limited | carfilzomibe | 25351255810202185
+Scl Lifesciences Limited | trometamol cetorolaco | 25351654225202164
+Msn Laboratories Private Limited | pitavastatina cálcica pentaidratada | 25351527145202218
+Glochem Industries Private Limited | besilato de levanlodipino hemipentaidratado | 25351492777202253
+Ipca Laboratories Ltd. | hidroclorotiazida | 25351234613202211
+Centrient Pharmaceuticals Spain, S.A. | cefalexina monoidratada | 25351196266202122
+Matrix Pharmacorp Private Limited | aciclovir | 25351247888202126
+Solara Active Pharma Sciences Limited | ibuprofeno | 25351072240202351
+Harman Finochem Limited | cloridrato de metformina | 25351583229202231
+Harman Finochem Limited | cloridrato de metformina | 25351165919202211
+Msn Organics Private Limited | parecoxibe sódico | 25351000511202296
+Msn Pharmachem Private Limited | fosfato de sitagliptina monoidratado | 25351745532202153
+Alivus Life Sciences Limited | hemitartarato de zolpidem | 25351851362202145
+Macfarlan Smith Limited | fosfato de codeína hemi-hidratado | 25351214747202127
+Aspen Oss B.V. | ocitocina | 25351762016202193
+Sinopharm Weiqida Pharmaceutical Co., Ltd. | ceftriaxona dissódica hemieptaidratada | 25351464371202108
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | drospirenona | 25351273206202211
+Shandong Anshun Pharmaceutical Co., Ltd. | tazobactam | 25351088152202291
+Qilu Antibiotics Pharmaceutical Co., Ltd. | ceftriaxona dissódica hemieptaidratada | 25351535972202102
+Antibióticos Do Brasil Ltda | ceftazidima pentaidratada | 25351063708202155
+Farmson Basic Drugs Private Limited | paracetamol | 25351898107202166
+Alivus Life Sciences Limited | etoricoxibe | 25351514251202151
+Gland Pharma Limited | brometo de rocurônio | 25351037183202283
+Intas Pharmaceuticals Limited | cloridrato de doxorrubicina | 25351604159202181
+Janssen-Cilag Farmaceutica Ltda | cloridrato de rilpivirina | 25351221052202100
+Janssen-Cilag Farmaceutica Ltda | rilpivirina | 25351381305202195
+Alembic Pharmaceuticals Limited | etoricoxibe | 25351459577202116
+Shandong Anshun Pharmaceutical Co., Ltd. | piperacilina monoidratada | 25351088151202246
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | etinilestradiol | 25351788882202295
+Zhejiang Guobang Pharmaceutical Co., Ltd | azitromicina di-hidratada | 25351198490202159
+Intas Pharmaceuticals Limited | fampridina | 25351007864202217
+Hetero Labs Limited | bicalutamida | 25351159727202003
+Msn Laboratories Private Limited | enzalutamida | 25351042982202191
+Fersinsa Gb S.A. De C.V. | benzilpenicilina potássica | 25351881526202169
+Transo-Pharm Handels-Gmbh | cloridrato de doxorrubicina | 25351666895202123
+Cyg Biotech Qumica & Farmaceutica Ltda. | carbonato de lítio | 25351759475202190
+Zhejiang Hisun Pharmaceutical Co., Ltd. | tigeciclina | 25351970820202063
+Alembic Pharmaceuticals Limited | succinato de desvenlafaxina monoidratado | 25351114763202111
+Msn Laboratories Private Limited | gefitinibe | 25351199392202139
+Msn Laboratories Private Limited | esilato de nintedanibe | 25351382611202068
+Harman Finochem Limited | cloridrato de metformina | 25351223837202117
+Biocon Limited | everolimo | 25351692063202162
+Synthimed Labs Private Limited | claritromicina | 25351517246202281
+Shilpa Pharma Lifesciences Limited | cloridrato de bendamustina monoidratada | 25351748374202193
+Msn Laboratories Private Limited | tosilato de sorafenibe | 25351915465202141
+Sun Pharmaceutical Industries Limited | vildagliptina | 25351063743202255
+Zhejiang Charioteer Pharmaceutical Co., Ltd. | aciclovir | 25351308050202116
+Shilpa Pharma Lifesciences Limited | bussulfano | 25351653813202181
+Honour Lab Limited | fosfato de sitagliptina | 25351333869202031
+Fersinsa Gb S.A. De C.V. | amoxicilina tri-hidratada | 25351533263202001
+Tapi Brazil Ltda | cloridrato de memantina | 25351537007202166
+Alembic Pharmaceuticals Limited | vildagliptina | 25351871278202067
+Msn Laboratories Private Limited | rosuvastatina cálcica | 25351322289202018
+Viyash Scientific Limited | cloridrato  de ondansetrona di-hidratado | 25351163773202180
