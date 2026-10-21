@@ -1,13 +1,12 @@
 Resumo CADIFA
 
-Executado em: 20/10/2026 09:00:21
+Executado em: 21/10/2026 09:00:22
 
-Novas: 0
+Novas: 676
 Revisadas: 0
-Removidas: 676
+Removidas: 0
 
-
-=== REMOVIDAS ===
+=== NOVAS ===
 Msn Life Sciences Private Limited | esomeprazol sódico | 25351364636202411
 Harman Finochem Limited | cloridrato de metilfenidato | 25351231414202596
 Alivus Life Sciences Limited | desloratadina | 25351849706202318
