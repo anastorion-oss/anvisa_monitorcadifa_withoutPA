@@ -1,15 +1,6 @@
 Resumo CADIFA
+Executado em: 23/10/2026 09:00:16
 
-Executado em: 22/10/2026 09:00:22
-
-Novas: 6
+Novas: 0
 Revisadas: 0
 Removidas: 0
-
-=== NOVAS ===
-Shanghai Pharma Group Changzhou Kony Pharmaceutical Co., Ltd. | cloridrato de valganciclovir | 25351830462202308
-Ajinomoto Co., Inc. | levodopa | 25351227633202490
-Globe Quimica Ltda. | cloridrato de midazolam | 25351079731202595
-Harman Finochem Limited | sacubitril valsartana sódica hidratada | 25351934362202422
-Alembic Pharmaceuticals Limited | sacubitril valsartana sódica hidratada | 25351444971202494
-Jiangxi Synergy Pharmaceutical Co., Ltd | empagliflozina | 25351158698202569
