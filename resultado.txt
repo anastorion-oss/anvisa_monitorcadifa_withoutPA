@@ -1,13 +1,6 @@
 Resumo CADIFA
-
-Executado em: 27/10/2026 09:00:27
+Executado em: 28/10/2026 09:00:21
 
 Novas: 0
-Revisadas: 1
+Revisadas: 0
 Removidas: 0
-
-
-=== REVISADAS ===
-Synthimed Labs Private Limited | ezetimiba | 25351130792202219 | Anterior: 001
-Atual: 001.1
-
