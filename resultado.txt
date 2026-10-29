@@ -1,6 +1,11 @@
 Resumo CADIFA
-Executado em: 28/10/2026 09:00:21
+
+Executado em: 29/10/2026 09:00:21
 
 Novas: 0
 Revisadas: 0
-Removidas: 0
+Removidas: 1
+
+
+=== REMOVIDAS ===
+Bridgebio Pharma, Inc. | cloridrato de acoramidis | 25351209898202414
