@@ -1,22 +1,6 @@
 Resumo CADIFA
-
-Executado em: 02/11/2026 09:00:24
+Executado em: 03/11/2026 09:00:21
 
 Novas: 0
-Revisadas: 4
+Revisadas: 0
 Removidas: 0
-
-
-=== REVISADAS ===
-Cipla Limited | fumarato de formoterol di-hidratado | 25351478409202201 | Anterior: 001
-Atual: 001.1
-
-The United Laboratories (Inner Mongolia) Co., Ltd. | amoxicilina tri-hidratada | 25351061671202392 | Anterior: 001
-Atual: 001.1
-
-Zhuhai Rundu Pharmaceutical Co., Ltd. | sacubitril valsartana sódica hidratada | 25351386758202451 | Anterior: 001
-Atual: 001.1
-
-Chemo Do Brasil Comércio De Farmoquímicos Ltda | drospirenona | 25351273206202211 | Anterior: 005
-Atual: 005.1
-
