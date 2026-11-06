@@ -1,10 +1,41 @@
 Resumo CADIFA
 
-Executado em: 05/11/2026 09:00:22
+Executado em: 06/11/2026 09:00:23
 
-Novas: 1
-Revisadas: 0
+Novas: 18
+Revisadas: 4
 Removidas: 0
 
 === NOVAS ===
-Produtos Roche Químicos E Farmacêuticos S.A. | risdiplam | 25351020492202567
+Organon Llc | tapinarofe | 25351211020202511
+Alivus Life Sciences Limited | perindopril erbumina | 25351196014202527
+Polypeptide Laboratories Inc. | acetato de teriparatida | 25351551831202391
+Zydus Lifesciences Limited | cloridrato de tansulosina | 25351329183202398
+Zhejiang Wild Wind Pharmaceutical Co., Ltd | metildopa sesqui-hidratada | 25351274564202411
+Alivus Life Sciences Limited | perindopril arginina | 25351206245202556
+Nivedita Chemicals Pvt Ltd | maleato de dexclorfeniramina | 25351071229202536
+Alivus Life Sciences Limited | deferasirox | 25351842708202386
+R L Fine Chem Pvt Ltd | maleato de carbinoxamina | 25351171166202355
+Hubei Biocause Heilen Pharmaceutical Co., Ltd | fosfato de fludarabina | 25351113275202510
+Alkaloids Of Australia Pty Ltd | butilbrometo de escopolamina | 25351090751202274
+Dr Reddys Farmacêutica Do Brasil Ltda | semaglutida | 25351824147202333
+Biocon Limited | liraglutida | 25351919862202434
+Chemo Do Brasil Comércio De Farmoquímicos Ltda | fulvestranto | 25351412319202320
+Wanbury Limited | cloridrato de metformina | 25351377903202411
+Harman Finochem Limited | linagliptina | 25351191315202301
+Aurobindo Pharma Produtos Farmacêuticos Ltda | hemifumarato de bisoprolol | 25351444817202251
+Nuray Chemicals Private Limited | parecoxibe sódico | 25351630295202399
+
+=== REVISADAS ===
+Taro Pharmaceutical Industries Ltd. | cloridrato de oxomemazina | 25351388057202375 | Anterior: 001
+Atual: 002
+
+Viyash Scientific Limited | tartarato de brimonidina | 25351498531202295 | Anterior: 001
+Atual: 002
+
+Msn Laboratories Private Limited | enzalutamida | 25351042982202191 | Anterior: 001
+Atual: 002
+
+Janssen-Cilag Farmaceutica Ltda | rilpivirina | 25351381305202195 | Anterior: 002
+Atual: 003
+
