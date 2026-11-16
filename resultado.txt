@@ -1,6 +1,13 @@
 Resumo CADIFA
-Executado em: 13/11/2026 09:00:16
+
+Executado em: 16/11/2026 09:00:23
 
 Novas: 0
-Revisadas: 0
+Revisadas: 1
 Removidas: 0
+
+
+=== REVISADAS ===
+Olon S.P.A. | cloridrato de daunorrubicina | 25351382977202461 | Anterior: 001
+Atual: 001.1
+
