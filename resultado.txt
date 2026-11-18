@@ -1,23 +1,6 @@
 Resumo CADIFA
+Executado em: 18/11/2026 09:00:22
 
-Executado em: 17/11/2026 09:00:21
-
-Novas: 9
-Revisadas: 1
+Novas: 0
+Revisadas: 0
 Removidas: 0
-
-=== NOVAS ===
-Honour Lab Limited | linagliptina | 25351504449202398
-Laurus Labs Limited | apalutamida | 25351211241202590
-Shilpa Pharma Lifesciences Limited | azacitidina | 25351102381202314
-Msn Laboratories Private Limited | acetato de abiraterona | 25351058271202642
-Zhejiang Huahai Pharmaceutical Co., Ltd. | oxalato de escitalopram | 25351545696202344
-Supriya Lifescience Ltd. | maleato de mepiramina | 25351275069202411
-Cohance Lifesciences Limited | cloridrato de metilfenidato | 25351494889202249
-Hetero Drugs Limited | dexlansoprazol sesqui-hidratado | 25351126760202553
-Dr Reddys Farmacêutica Do Brasil Ltda | pantoprazol sódico sesqui-hidratado | 25351037294202532
-
-=== REVISADAS ===
-Alcaliber S.A. | sulfato de morfina pentaidratado | 25351257070202111 | Anterior: 005
-Atual: 006
-
