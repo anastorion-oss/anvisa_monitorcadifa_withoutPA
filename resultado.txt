@@ -1,6 +1,22 @@
 Resumo CADIFA
-Executado em: 24/11/2026 09:00:24
+
+Executado em: 25/11/2026 09:00:22
 
 Novas: 0
-Revisadas: 0
+Revisadas: 4
 Removidas: 0
+
+
+=== REVISADAS ===
+Heraeus Precious Metals Gmbh & Co. Kg | cloridrato do ácido aminolevulínico | 25351145024202502 | Anterior: 001
+Atual: 001.1
+
+Nosch Labs Pvt.Ltd. | cloridrato de naratriptana | 25351311863202436 | Anterior: 001
+Atual: 001.1
+
+Alembic Pharmaceuticals Limited | bromidrato de vortioxetina | 25351504054202395 | Anterior: 001
+Atual: 001.1
+
+Novartis Biociencias S.A | cloridrato de iptacopana monoidratado | 25351555119202361 | Anterior: 002
+Atual: 002.1
+
