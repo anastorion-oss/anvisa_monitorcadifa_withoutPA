@@ -1,22 +1,37 @@
 Resumo CADIFA
 
-Executado em: 25/11/2026 09:00:22
+Executado em: 26/11/2026 09:00:20
 
 Novas: 0
-Revisadas: 4
+Revisadas: 9
 Removidas: 0
 
 
 === REVISADAS ===
-Heraeus Precious Metals Gmbh & Co. Kg | cloridrato do ácido aminolevulínico | 25351145024202502 | Anterior: 001
+Msn Organics Private Limited | cloridrato de cinacalcete | 25351153141202299 | Anterior: 001
 Atual: 001.1
 
-Nosch Labs Pvt.Ltd. | cloridrato de naratriptana | 25351311863202436 | Anterior: 001
+Amoli Organics (A Division Of Umedica Laboratories Pvt. Ltd.) | clortalidona | 25351395611202451 | Anterior: 001
 Atual: 001.1
 
-Alembic Pharmaceuticals Limited | bromidrato de vortioxetina | 25351504054202395 | Anterior: 001
+Shandong Anshun Pharmaceutical Co., Ltd. | piperacilina monoidratada | 25351072898202363 | Anterior: 001
 Atual: 001.1
 
-Novartis Biociencias S.A | cloridrato de iptacopana monoidratado | 25351555119202361 | Anterior: 002
-Atual: 002.1
+Harman Finochem Limited | sacubitril valsartana sódica hidratada | 25351934362202422 | Anterior: 001
+Atual: 001.1
+
+Swati Spentose Private Limited, Unit-Ii. | dutasterida | 25351312251202380 | Anterior: 001
+Atual: 001.1
+
+Laurus Labs Limited | enzalutamida | 25351001382202415 | Anterior: 001
+Atual: 001.1
+
+Lee Pharma Limited | flurbiprofeno | 25351168865202580 | Anterior: 001
+Atual: 001.1
+
+Msn Organics Private Limited | cloridrato de pioglitazona | 25351352149202317 | Anterior: 001
+Atual: 001.1
+
+Amoli Organics (A Division Of Umedica Laboratories Pvt. Ltd.) | cloridrato de venlafaxina | 25351259212202347 | Anterior: 001
+Atual: 001.1
 
